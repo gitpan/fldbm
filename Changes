@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::Playmate.
+
+0.01  Mon May  19 09:14:21 2003
+        - original version; created by mjflick
+                -X -n FLDBM
+
