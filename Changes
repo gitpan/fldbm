@@ -1,4 +1,9 @@
-Revision history for Perl extension Acme::Playmate.
+Revision history for Perl extension FLDBM.
+
+
+0.20  Wed Sep  3 22:13:55 EDT 2003
+        - Changed general commands and added better support.
+
 
 0.01  Mon May  19 09:14:21 2003
         - original version; created by mjflick
